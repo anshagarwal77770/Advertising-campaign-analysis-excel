@@ -1,4 +1,4 @@
-# Amazon Advertising Campaign Performance Dashboard
+# Advertising Campaign Performance Dashboard
 
 ## Overview
 
@@ -45,4 +45,4 @@ This project presents an interactive Microsoft Excel dashboard for analyzing Ama
 - KPI Reporting
 - Business Analysis
 - Data Visualization
-- Pivot Tables# Advertising-campaign-analysis-excel
+- Pivot Tables
