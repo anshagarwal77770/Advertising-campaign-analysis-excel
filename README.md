@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project presents an interactive Microsoft Excel dashboard for analyzing Amazon advertising campaign performance. The dashboard transforms raw campaign data into meaningful business insights using Pivot Tables, KPI analysis, and visual reporting.
+This project presents an interactive Microsoft Excel dashboard for analyzing advertising campaign performance. The dashboard transforms raw campaign data into meaningful business insights using Pivot Tables, KPI analysis, and visual reporting.
 
 ## Tools Used
 
